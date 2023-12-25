@@ -2,4 +2,4 @@
 OnCalendar=hourly
 
 [Install]
-WantedBy=default
+WantedBy=default.target
