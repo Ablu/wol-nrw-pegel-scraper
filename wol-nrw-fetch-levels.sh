@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -e
 
 date=$(date --iso-8601=minutes)
 folder=$(echo "$date" | awk -FT '{print $1}')
