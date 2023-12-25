@@ -1,5 +1,5 @@
 [Timer]
-OnCalendar=hourly
+OnCalendar=*-*-* *:10:00
 
 [Install]
 WantedBy=default.target
